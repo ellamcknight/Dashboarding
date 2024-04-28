@@ -2,9 +2,9 @@
 Dashboard built in Python
 
 
-Dashboarding in Python. Coding was used to assist in teaching. data was taken from historical volcano data. Source [Link](https://github.com/plotly/datasets/blob/master/volcano_db.csv)
+Dashboarding in Python. Coding was used to assist in teaching. Data was taken from historical volcano data. Source: [Link](https://github.com/plotly/datasets/blob/master/volcano_db.csv)
 
-Final dashboard. here is a snapshot image:
+Final dashboard. Here is a snapshot image:
 
 ![alt text](https://github.com/ellamcknight/Dashboarding/blob/main/Images/Volcano_dash_dropdown.png?raw=true)
 
