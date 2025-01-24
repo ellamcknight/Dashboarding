@@ -1,5 +1,5 @@
 # Dashboarding
-Dashboard built in Python
+Dashboard built in Python using libraries pandas & plotly.
 
 
 Dashboarding in Python. Coding was used to assist in teaching. Data was taken from historical volcano data. Source: [GithubLink](https://github.com/plotly/datasets/blob/master/volcano_db.csv)
